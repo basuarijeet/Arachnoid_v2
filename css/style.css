@@ -21,10 +21,10 @@ body,p,h1, h2,h3,h4,h5,h6,a{font-family: 'futura-pt', sans-serif; color:#fff; }
 input:focus, select:focus, textarea:focus, button:focus { outline: none; }
 body {  color:#fff; overflow-x:hidden;}
 
-.top-bar{ width:100vw; height:50vh; background: black; position: fixed; z-index: 1000; top:0; transition: .3s ease-in-out;}
+.top-bar{ width:100vw; height:30vh; background: black; position: absolute; z-index: 1000; top:0; transition: .3s ease-in-out;}
 .top-bar.bar{height: 0vh;}
 .top-bar.hide{height: 0vh;min-height: 0;}
-.bottom-bar{ width:100vw; height:50vh;  background: black; position: fixed; z-index: 1000; bottom:0; text-align: center;transition: .3s ease-in-out;}
+.bottom-bar{ width:100vw; height:0vh;  background: black; position: absolute; z-index: 1000; bottom:0; text-align: center;transition: .3s ease-in-out;}
 .bottom-bar.bar{height: 0vh;}
 .bottom-bar.hide{height: 0vh; min-height: 0;}
 .bottom-bar .title { padding-top:20px;color: white;
