@@ -16,7 +16,7 @@ img.lazy { transition:.5s ease all; opacity: 1; border:none !important;  backgro
 
 /* common */
 
-html, body { background-color:black;  margin:0; padding:0; position: relative; font-size:12px; font-family: 'futura-pt', sans-serif; color:#fff;height: 100%;  }
+html, body { background-color:black;  margin:0; padding:0; position:absolute; font-size:12px; font-family: 'futura-pt', sans-serif; color:#fff;height: 100%;  }
 body,p,h1, h2,h3,h4,h5,h6,a{font-family: 'futura-pt', sans-serif; color:#fff; }
 input:focus, select:focus, textarea:focus, button:focus { outline: none; }
 body {  color:#fff; overflow-x:hidden;}
@@ -1525,7 +1525,7 @@ margin-bottom:5px;
 
 
 ::-webkit-scrollbar {
-  width: 1px;
+  width: 15px;
 }
 ::-webkit-scrollbar-track {
   background: #000; 
