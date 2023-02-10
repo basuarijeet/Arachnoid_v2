@@ -19,7 +19,7 @@ APP.data = {
 	},
 
 	"menu":[
-		{"title":"home","link":"home"},
+		// {"title":"home","link":"home"},
 		{"title":"work","link":"work"},
 		{"title":"prototypes","link":"prototypes"},
 		{"title":"art","link":"art"},
