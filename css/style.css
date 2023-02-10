@@ -266,7 +266,7 @@ body {  color:#fff; overflow-x:hidden;}
 
 
 /* header */
-.header { opacity:0; position:fixed; width:100vw; height:12vh; top:-5vh; left:0;padding:0; margin:0; transition: 1s all ease-in-out; z-index: 1000;}
+.header { opacity:0; position:fixed; width:100vw; height:9vh; top:-5vh; left:0;padding:0; margin:0; transition: 1s all ease-in-out; z-index: 1000;}
 .header.show { opacity:1;z-index: 1000; top:0;  }
 .header.shade { background: rgba(0,0,0,.7); }
 .logo { cursor:pointer; position: absolute; top:5vh; left:5vw; z-index: 100; transform:rotate(0deg) ; width:50px; transition: all 2s ease-in-out; transform-origin: 0% 50%;}
@@ -326,7 +326,7 @@ font-size:9vw; line-height:10vh; text-transform: uppercase; color: white;
 /* page common */
 /* overflow-y: scroll; overflow-x:hidden;
   -webkit-overflow-scrolling: touch; */
-.page {  width:100vw;   position: absolute; transform: translate3d(0,20%,0); top:0px; left:0px; z-index:0; background:none; opacity:0; padding-bottom:10vw; transition: .8s ease-in-out;  }
+.page {  width:100vw;   position: absolute; transform: translate3d(0,20%,0); top:0px; left:0px; z-index:0; background:none; opacity:0; padding-bottom:0vw; transition: .8s ease-in-out;  }
 .page.show { z-index:100; opacity:1;  transform: translate3d(0,0,0); }
 .page.hide { display: none; }
 
