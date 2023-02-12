@@ -114,7 +114,7 @@ body {  color:#fff; overflow-x:hidden;}
 .section-title { 
     text-align: center;
     pointer-events: none;
-    margin-top: 15vh;
+    margin-top: 0vh;
     margin-bottom: 5vh;
     color: white;
     text-transform: uppercase;
@@ -1095,7 +1095,7 @@ transition: all 0.3s ease 0s;
 
 /* work detail */
 .work-detail .page-title{
-    font-size:3.5vw;
+    font-size:8.5vw;
     letter-spacing: .5vw;
     top: 30vh;
     color:#3d5257;
@@ -1114,7 +1114,7 @@ transition: all 0.3s ease 0s;
     margin-top: 5vh;
     color: rgba(255,255,255,.7);
     text-transform: uppercase;
-    font-size: 1vw;
+    font-size: 0vw;
     letter-spacing: .3vw;
     
     text-align: center;
@@ -1126,7 +1126,7 @@ transition: all 0.3s ease 0s;
     margin-top: 1vh;
    color: rgba(255,255,255,.7);
     text-transform: uppercase;
-    font-size: 1vw;
+    font-size: 0vw;
     letter-spacing: .3vw;
     
     text-align: center;
@@ -1656,7 +1656,7 @@ margin-bottom:5px;
   }
 
  .work-detail .client, .work-detail .role { 
-    font-size: 1.2vw;
+    font-size: 0vw;
   }
 
 
@@ -1782,7 +1782,7 @@ margin-bottom:5px;
   transition: .3s ease-in-out all;
 }
 
-.section-title { margin-top:5vh; margin-bottom: 3vh; font-size: 2vw; }
+.section-title { margin-top:0vh; margin-bottom: 3vh; font-size: 2vw; }
 
 .interviews-list { margin-top:5vh!important; }
 
@@ -1810,7 +1810,7 @@ margin-bottom:5px;
   }
 
   .work-detail .client, .work-detail .role { 
-    font-size: 2.2vw;
+    font-size: 0vw;
   }
 
   .work-detail .client { margin-top: 3vh; }
@@ -1844,7 +1844,7 @@ margin-bottom:5px;
   }
 
   .work-detail .client, .work-detail .role { 
-    font-size: 2.2vw;
+    font-size: 0vw;
   }
 
   .work-detail .client { margin-top: 3vh; }
@@ -1882,7 +1882,7 @@ margin-bottom:5px;
   }
 
   .prototypes-detail .client, .work-detail .role { 
-    font-size: 2.2vw;
+    font-size: 0vw;
   }
 
   .prototypes-detail .client { margin-top: 3vh; }

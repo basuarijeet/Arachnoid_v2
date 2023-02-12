@@ -19,12 +19,12 @@ APP.data = {
 	},
 
 	"menu":[
-		// {"title":"home","link":"home"},
+		{"title":"home","link":"home"},
 		{"title":"work","link":"work"},
-		{"title":"prototypes","link":"prototypes"},
+		{"title":"discover","link":"prototypes"},
 		{"title":"art","link":"art"},
-		{"title":"press","link":"press"},
-		{"title":"info","link":"info"},
+		{"title":"blog","link":"press"},
+		{"title":"about","link":"info"},
 		{"title":"reel","link":"reel"}
 	],
 
@@ -42,7 +42,7 @@ APP.data = {
 		"title":"work",
 		"page-title":"Arijeet Basu | Work",
 		"subtitle":"Projects | Collaborations | Explorations",
-		"content":"Featured <b>work</b> with some of the most incredible teams and artists on the planet.",
+		"content":"Featured <b>work</b> with some of the most incredible teams and individuals on the planet.",
 		"list":[
 			{
 				"title":"SweeTARTS | SweetBEATS Musical Mixer",
@@ -51,7 +51,8 @@ APP.data = {
 				"thumb":"assets/images/work/sweetbeats/thumb.jpg",
 				"link":"work/sweetbeats",
 				"tags":"music, visualizer, mobile, desktop, webgl, 3d, threejs, react, shaders",
-				"featured":true
+				"featured":true,
+				"bio":"HEllo World",
 			},
 			{
 				"title":"Hidden13 | AR Metaverse iPhone 13 Launch",
@@ -80,214 +81,7 @@ APP.data = {
 				"tags":"gsap, scrolling, video, lottie",
 				"featured":true
 			},
-			{	
-				"title":"Cryptaris Interactive | US Army", 
-				"subtitle":"US Army, STEM, Tool", 
-				"thumb":"assets/images/work/cryptaris/thumb.jpg",
-				"link":"work/cryptaris",
-				"tags":"webgl, glsl,shader,physics, animation, motion, mobile, desktop, data, ai, social, maps, games",
-				"featured": true
-			},
-			{
-				"title":"Rockstar Energy | Website",
-				"subtitle":"Rockstar, Pepsi, ThinkingBox",
-				"role":"Creative Technical Director | Lead Developer",
-				"thumb":"assets/images/work/rockstar/rockstar-thumb.jpg",
-				"link":"work/rockstar",
-				"tags":"rockstar, pepsi, webgl, 3d, threejs, vue, react, shaders",
-				"featured":true
-			},
-			{	
-				"title":"Independence Day | The War of 1996", 
-				"subtitle":"20th Centruy Fox, Independence Day Resurgence",
-				"role":"Interactive Documentary | Creative Director, Developer", 
-				"thumb":"assets/images/work/war-of-1996/share.jpg",
-				"link":"work/war-of-1996",
-				"featured": true,
-				"tags":"webgl, film, social,experiential,glsl,shader,physics,sound design, sound engine, animation, motion, mobile, desktop"
-			},
-			{
-				"title":"Twitch + NFL | Thursday Night Football",
-				"subtitle":"Twitch, NFL, Amazon, Tool",
-				"role":"Senior Developer | API | Database Desgin | Front-End",
-				"thumb":"assets/images/work/nfl-twitch/nfl-twitch-thumb.jpg",
-				"link":"work/nfl-twitch",
-				"tags":"nfl,twitch,games,gaming,gamedev,database,front-end,ai,UI,API",
-				"featured":true
-			},
-			{	
-				"title":"Secure Your Secrets | Unity Game", 
-				"subtitle":"Google's Be Internet Awesome",
-				"role":"Installation, App, Site | Lead Developer, Creative", 
-				"thumb":"assets/images/work/secure-your-secrets/strong.jpg",
-				"link":"work/secure-your-secrets",
-				"tags":"unity, secure your secrets, internaut, be internet awesome, interland, game, google, installation, experiential, 3d models, 3d",
-				"featured": true
-			},
-			{	
-				"title":"Intel Mega AR Experience | CES", 
-				"subtitle":"Intel, Tool",
-				"role":"Creative Tech | AR Developer | Unity", 
-				"thumb":"assets/images/work/intel-mega/intel-tower.jpg",
-				"link":"work/intel-mega",
-				"tags":"intel, unity,mega, experience,ces,ar, vr, webgl,ar/vr,film,installation,social,composite, video compositing,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx",
-				"featured": true
-			},
-			{	
-				"title":"Wonder Woman | Theatrical Installation", 
-				"subtitle":"Warner Bros.",
-				"role":"Installation, App, Site | Lead Developer, Creative", 
-				"thumb":"assets/images/work/show-your-warrior/721360.jpg",
-				"link":"work/wonder-woman",
-				"tags":"wonder woman, wonderwoman, webgl,ar/vr,film,installation,social,composite, video compositing,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx",
-				"featured": true
-			},
 			
-
-			{	
-				"title":"SONY | Gran Turismo 6 | First Love", 
-				"subtitle":"Interactive Documentary | Senior Developer", 
-				"thumb":"assets/images/work/firstlove/first-love-poster.jpg",
-				"link":"work/first-love",
-				"featured": true,
-				"tags":"webgl, film, social,experiential,glsl,shader,physics,sound design, sound engine, animation, motion, mobile, desktop"
-			},
-			{	
-				"title":"Google Cloud Showcase | Cloud City", 
-				"subtitle":"Google, Hook",
-				"role":"Installation, App, Site | Lead Developer, Creative", 
-				"thumb":"assets/images/work/cloud-city/shot-15.jpg",
-				"link":"work/cloud-city",
-				"tags":"google,anthos,cloud city,webgl,3d, interactive,aniamtion, model,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx",
-				"featured": true
-			},
-
-			{
-				"title":"Detective Pikachu | AR Snapchat Lens",
-				"subtitle":"Warner Bros., Oblio",
-				"role":"Senior Developer | SnapChat App | Visual Effects",
-				"thumb":"assets/images/work/detective-pikachu/pokemon-thumb.jpg",
-				"link":"work/detective-pikachu",
-				"tags":"detective,pikachu,AR,augmented reality,xr,vr,snapchat,lens, pokemon,shaders,app,interactive,warner bros,film,movie",
-				"featured":true
-			},
-			
-
-			{	
-				"title":"Music Selfie Experiment", 
-				"subtitle":"Lincoln Motor Company, Grammys, Jam3", 
-				"thumb":"assets/images/work/musicselfie/pic6.jpg",
-				"link":"work/music-selfie",
-				"featured": true,
-				"tags":"webgl, animation, motion, mobile, desktop, data, ai, social, fil, dynamic, video, api, weather, locaiton"
-			},
-
-
-
-			{	
-				"title":"Art Copy & Code | Google | Dynamic Film", 
-				"subtitle":"Google, Tool", 
-				"thumb":"assets/images/work/artcopycode/share.jpg",
-				"link":"work/art-copy-code",
-				"featured": true,
-				"tags":"webgl, animation, motion, mobile, desktop, data, ai, social, fil, dynamic, video, api, weather, locaiton"
-			},
-			
-			{
-				"title":"The Meg | Dynamic Video Creator",
-				"subtitle":"Warner Bros., Oblio",
-				"role":"Senior Developer | Blender Automation | Video Creation",
-				"thumb":"assets/images/work/the-meg/the-meg-thumb.jpg",
-				"link":"work/the-meg",
-				"tags":"dynamic,video,meg, warner bros,film,movie,blender,c4d,cimena4d,interactive, website,ffmpeg",
-				"featured":true
-			},
-
-			{
-				"title":"Tomb Raider | Unlock the Tomb",
-				"subtitle":"Warner Bros., Oblio",
-				"role":"Senior Developer | Interctive 3D | Front-end | Back-end",
-				"thumb":"assets/images/work/tomb-raider/tomb-raider-wide.jpg",
-				"link":"work/tomb-raider",
-				"tags":"tomb raider, oblio, warner bros., film, movie, website, contest, interactive, game, puzzle, 3D, threejs",
-				"featured":true
-			},
-			{
-				"title":"Ascend | Short Film | Pre-production",
-				"subtitle":"Render 51 Studios",
-				"role":"Director | Writer | Visual Effects",
-				"thumb":"assets/images/work/ascend/ascend10.jpg",
-				"link":"work/ascend",
-				"tags":"film,movie,shortfilm,short,ascened,visual effects,vfx,richard,mattka,director,writer,scifi",
-				"featured":true
-			},
-
-			
-			
-			
-
-			{
-				"title":"Annabelle Creation | Film Contest",
-				"subtitle":"New Line Cinema, Oblio",
-				"role":"Senior Developer | Visual Effects | Front-end | Back-end",
-				"thumb":"assets/images/work/annabelle-creation/annabelle-thumb.jpg",
-				"link":"work/annabelle-creation",
-				"tags":"annabelle, warner bros, oblio, new line cinema, horror, film, movie, contest, game, ffmpeg, nteractive, visual effects, shaders, glitch",
-				"featured":true
-			},
-			
-
-			{
-				"title":"DV Entertainment | Production Logo",
-				"subtitle":"DV Entertainment, Render 51 Studios",
-				"role":"Motion | Design | Visual Effects",
-				"thumb":"assets/images/work/dv-logo/dv-logo.jpg",
-				"link":"work/dv-logo",
-				"tags":"logo,production,film,movies,imdb,dv,entertainment,render51,render,51,studios,3d,aftereffects,after,effects,vfx,visual effects",
-				"featured":true
-			},
-
-
-			{
-				"title":"Launch Pad | Feature Film | VFX",
-				"subtitle":"SCS Studio,Render 51 Studios",
-				"role":"Visual Effects | Concept Artist",
-				"thumb":"assets/images/work/launch-pad/launch-pad-1.jpg",
-				"link":"work/launch-pad",
-				"tags":"film,visual effetcs, promo,teser,test,vfx,movie,imdb,launchpad,space,scifi,feature film, production,preproduction,render51,render,51,scs studios",
-				"featured":true
-			},
-
-
-			{
-				"title":"Come On Oblivion | Finger Eleven",
-				"subtitle":"Music Video | Director",
-				"role":"Director | Visual Effects | Shaders",
-				"thumb":"assets/images/work/come-on-oblivion/come-on-oblivion.jpg",
-				"link":"work/come-on-oblivion",
-				"tags":"music video,finger elevent,f11,vfx,visual effects, director,film,moview,short,after effects,shaders,glsl,music",
-				"featured":true
-			},
-
-
-			{	
-				"title":"BB-8 | Infinite Runner Unity Game", 
-				"subtitle":"Render 51, Unity", 
-				"thumb":"assets/images/work/bb8run/share.jpg",
-				"link":"work/bb8run",
-				"tags":"webgl,ar/vr,film,installation,social,composite, video compositing,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx",
-				"featured": true
-			},
-		
-			
-			{	
-				"title":"Tool of North America | Interactive Website", 
-				"subtitle":"Tool of North America", 
-				"thumb":"assets/images/work/tool/share.jpg",
-				"link":"work/tool",
-				"featured": true,
-				"tags":"webgl, animation, motion, mobile, desktop, data, ai, social, fil, dynamic, video, api, weather, locaiton"
-			},
 
 
 			
@@ -297,7 +91,7 @@ APP.data = {
 
 
 	"prototypes":{
-		"title":"proto",
+		"title":"Discover",
 		"page-title":"Arijeet Basu | Prototypes",
 		"subtitle":"Visual FX | 3D | Shaders | AI | Experiments",
 		"content":"A collection of experiments, animations, concept work and explorations. Some find their way into projects, films, tutorials, books and installations. All of them teach me something, and hopefully can offer something for others as well.",
@@ -532,7 +326,7 @@ APP.data = {
 	},
 
 	"press":{
-		"title":"press",
+		"title":"blog",
 		"page-title":"Arijeet Basu | Press",
 		"subtitle":"Articles | Tutorials | Interviews",
 		"content":"A selection of recent articles, features, tutorials, interviews and press releases. A featured writer with NET magazine and Web Designer Magazine since 2018. <a href='mailto:richard@richardmattka.com' >Contact me</a> for writing or speaking engagments.",
@@ -979,7 +773,7 @@ APP.data = {
 	"info":{
 
 
-		"title":"info",
+		"title":"about",
 		"page-title":"Arijeet Basu | Info",
 		"subtitle":"Bio | Awards | Clients | Services | Contact",
 		"content":"Richard Mattka is an award-winning Creative Director, Designer and Developer, specializing in innovative technologies, interactive experiences, web development, visual effects and film. He is an author, collaborator and frequent writer. He has been very fortunate to have worked with some of the most incredible teams and artists on the planet.",

@@ -295,14 +295,8 @@ APP.trackEvent = function(e){
 }
 
 
-// handle resizing of browser 
-window.addEventListener( 'resize', onWindowResize, false );
-function onWindowResize() {
-	// handle non webGL specific resizing
-	if(app.currentTip){
-		app.toolTip.show(app.state,app.currentTip);
-	}
-}
+
+
 
 
 
