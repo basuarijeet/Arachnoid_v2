@@ -1,6 +1,6 @@
 APP.data = {
 	"title":"Arijeet Basu",
-	"page-title":"Arijeet Basu | Welcome",
+	"page-title":"Arijeet Basu | Home",
 	"version":"2.0",
 	"langauge":"en",
 	"description":"Arijeet Basu is an award-winning creative technologist.",
@@ -31,7 +31,7 @@ APP.data = {
 
 	"home":{
 		"title":"Arijeet Basu",
-		"page-title":"Arijeet Basu | PH4N70M ",
+		"page-title":"Arijeet Basu | Home ",
 		"subtitle":"Creative | Pragmatic | Dynamic",
 		"content":"Arijeet Basu is an award-winning creative technologist.",
 		"video": "assets/videos/home.mp4"
@@ -42,7 +42,7 @@ APP.data = {
 		"title":"work",
 		"page-title":"Arijeet Basu | Work",
 		"subtitle":"Projects | Collaborations | Explorations",
-		"content":"Featured <b>work</b> with some of the most incredible teams and individuals on the planet.",
+		"content":"",
 		"list":[
 			{
 				"title":"SweeTARTS | SweetBEATS Musical Mixer",

@@ -710,11 +710,11 @@ APP.workDetail = {
 		$(".work-detail .page-subtitle").html(data.subtitle);
 		$(".work-detail .client").html("<b>Client: </b>"+data.client);
 		$(".work-detail .role").html("<b>Role: </b>"+data.role);
-		$(".work-detail .content-title").html("[ brief ]");
+		$(".work-detail .content-title").html("");
 		$(".work-detail .content").html(data.content);
 		
 		// share
-		$(".work-detail .social-title").html("[ share ]");
+		$(".work-detail .social-title").html("");
 	    $(".work-detail .share-page-facebook").click(function(){
 	    	window.open("https://www.facebook.com/sharer/sharer.php?u="+data.url+"&display=popup&ref=plugin&src=share_button","Facebook Share","width=600, height=450 top=" + ($(window).height() / 2 - 300) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
@@ -1068,11 +1068,11 @@ APP.artDetail = {
 		$(".art-detail .page-subtitle").html(data.subtitle);
 		$(".art-detail .client").html("<b>Client: </b>"+data.client);
 		$(".art-detail .role").html("<b>Role: </b>"+data.role);
-		$(".art-detail .content-title").html("[ brief ]");
+		$(".art-detail .content-title").html("");
 		$(".art-detail .content").html(data.content);
 		
 		// share
-		$(".art-detail .social-title").html("[ share ]");
+		$(".art-detail .social-title").html("");
 	    $(".art-detail .share-page-facebook").click(function(){
 	    	window.open("https://www.facebook.com/sharer/sharer.php?u="+data.url+"&display=popup&ref=plugin&src=share_button","Facebook Share","width=600, height=450 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
@@ -1375,11 +1375,11 @@ APP.pressDetail = {
 		$(".press-detail .page-subtitle").html(data.subtitle);
 		$(".press-detail .client").html("<b>Client: </b>"+data.client);
 		$(".press-detail .role").html("<b>Role: </b>"+data.role);
-		$(".press-detail .content-title").html("[ brief ]");
+		$(".press-detail .content-title").html("");
 		$(".press-detail .content").html(data.content);
 		
 		// share
-		$(".press-detail .social-title").html("[ share ]");
+		$(".press-detail .social-title").html("");
 	    $(".press-detail .share-page-facebook").click(function(){
 	    	window.open("https://www.facebook.com/sharer/sharer.php?u="+data.url+"&display=popup&ref=plugin&src=share_button","Facebook Share","width=600, height=450 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
@@ -1685,12 +1685,12 @@ APP.prototypesDetail = {
 		$(".prototypes-detail .page-subtitle").html(data.subtitle);
 		//$(".prototypes-detail .client").html("<b>Client: </b>"+data.client);
 		//$(".prototypes-detail .role").html("<b>Role: </b>"+data.role);
-		$(".prototypes-detail .content-title").html("[ brief ]");
+		$(".prototypes-detail .content-title").html("");
 		$(".prototypes-detail .content").html(data.content);
 		if('color' in data){  $(".prototypes-detail .page-title").css({'color': data.color}); }
 
 		// share
-		$(".prototypes-detail .social-title").html("[ share ]");
+		$(".prototypes-detail .social-title").html("");
 	    $(".prototypes-detail .share-page-facebook").click(function(){
 	    	window.open("https://www.facebook.com/sharer/sharer.php?u="+data.url+"&display=popup&ref=plugin&src=share_button","Facebook Share","width=600, height=450 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
