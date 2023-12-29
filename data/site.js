@@ -3,10 +3,10 @@ APP.data = {
 	"page-title":"Arijeet Basu | Welcome",
 	"version":"2.0",
 	"langauge":"en",
-	"description":"Arijeet Basu is an award-winning creative technologist, director, designer, & motion graphics artist, working across multiple mediums including  Installations, Film, Web, Interactive & Gaming.",
-	"url":"https://arijeetbasu.us",
+	"description":"Arijeet Basu is an award-winning creative technologist.",
+	"url":"https://arijeetbasu.co",
 	"shareImage":"assets/images/share-3.jpg",
-	"twitterDescription":"Creative Technologist | Desginer | Developer",
+	"twitterDescription":"Creative Technologist | Designer | Developer",
 	"facebookDescription":"Creative Technologist | Designer | Developer",
 	"upgradeMessage":"It appears you are an older device or browser. Please retry using a WebGL enabled device.",
 	
@@ -33,7 +33,7 @@ APP.data = {
 		"title":"Arijeet Basu",
 		"page-title":"Arijeet Basu | PH4N70M ",
 		"subtitle":"Creative | Pragmatic | Dynamic",
-		"content":"Arijeet Basu is an award-winning creative technologist, director, designer, & motion graphics artist, working across multiple mediums including  Installations, Film, Web, Interactive & Gaming.",
+		"content":"Arijeet Basu is an award-winning creative technologist.",
 		"video": "assets/videos/home.mp4"
 	},
 
@@ -52,7 +52,7 @@ APP.data = {
 				"link":"work/sweetbeats",
 				"tags":"music, visualizer, mobile, desktop, webgl, 3d, threejs, react, shaders",
 				"featured":true,
-				"bio":"HEllo World",
+				"bio":"Hello World",
 			},
 			{
 				"title":"Hidden13 | AR Metaverse iPhone 13 Launch",
@@ -776,8 +776,8 @@ APP.data = {
 		"title":"about",
 		"page-title":"Arijeet Basu | Info",
 		"subtitle":"Bio | Awards | Clients | Services | Contact",
-		"content":"Richard Mattka is an award-winning Creative Director, Designer and Developer, specializing in innovative technologies, interactive experiences, web development, visual effects and film. He is an author, collaborator and frequent writer. He has been very fortunate to have worked with some of the most incredible teams and artists on the planet.",
-		"bio":"<p>Richard Mattka  is an Award-winning Creative Director, Designer and Developer with over 15 years experience in interactive development, design and concept artwork. Combining science-fiction themes, the hidden mysteries of fractal worlds within the world of code, and countless languages, he creates interactive worlds for devices, installations and film. Technologies include Artificial Intelligence systems, OpenGL/WebGL, Graphics Shaders, VR/AR, 3D, Visual FX & Dynamic Film. His work often explores the synergy between humans and machines, the intersection of technology and creative spirit.</p><p>Richard has <a href='./work'>worked</a> with some of the top teams and brands in interactive and entertainment including Microsoft, AirBnB, P&G, Lionsgate, Warner Bros., 20th Century Fox,  New Line Cinema, Apple, Sony, IBM and Google.</p><p>His work has been recognized with Webbys, FWAs, Awwwards, CSSDA, Cannes Lions, One Show, Communication Arts, including Site of the Month and Site of the Year awards. He was recently recognized by the Webby Awards for 2018/2019.</p><p>As a developer, Richard's expertise includes React, Vue, javascript, webgl, php, python, node and a wide range of related frameworks and libraries. He has years of experience with Three.js, R3F, GLSL and WebGL, along with the WebAudio API and CSS. Everything a web based project might need.</p><p>For video processing he has scripting in ffMPEG, Blender, After Effects and Cinema4D. Integration with Artificial Intelligence APIs for computer vision, speech recognition, deep learning and training are also often employed in his work. 3D modeling in Cinema 4D and Blender enable him to work with in all facets of the creative pipeline. Richard also has film experience in post-production with After Effects and Premier, having worked with Andrew Kramer and Video Copilot. Visual effects for film, production logo design and animations are also part of his <a href='./work'>portfolio</a>.</p><p>Richard is also a regular <a href='./press'>writer</a> for Net Magazine, and Web Designer Magazine, with over 50 articles published so far on VFX, 3D, Artificial Intelligence WebGL, Sound FX and Shaders.</p><p>'The Art of Shaders', his latest full length programming book, is currently in production. A comprehensive introduction to the world of shader programming, it covers how they work, and the incredible visual results they can create. Release data is now scheduled for 2022.</p><p>Richard's professional <a href='./art'>artwork</a> explores a wide range of fractal works, science-fiction and other-world visions. Selected works are currently available for purchase through <a target='_blank' href='https://society6.com/richardmattka'>Society 6</a>.</p><p><a href='mailto:richard@richardmattka.com'>Contact me</a> for availability for freelance work, as part of the team or creative lead.</p>",
+		"content":"Arijeet Basu is an award-winning creative technologist.",
+		"bio":"<p>Arijeet Basu is an award-winning creative technologist.</p>",
 
 		"feature": {
 			"type":"image",
