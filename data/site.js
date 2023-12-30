@@ -70,7 +70,7 @@ APP.data = {
 				"thumb":"assets/images/work/microsoft-codebook/codebook-cover.jpg",
 				"link":"work/microsoft-codebook",
 				"tags":"webgl, 3d, threejs, react, shaders",
-				"featured":true
+				"featured":true	
 			},
 			{
 				"title":"Locks of Love | Cut The Quarantine",
