@@ -329,7 +329,7 @@ APP.data = {
 		"title":"blog",
 		"page-title":"Arijeet Basu | Press",
 		"subtitle":"Articles | Tutorials | Interviews",
-		"content":"A selection of recent articles, features, tutorials, interviews and press releases. A featured writer with NET magazine and Web Designer Magazine since 2018. <a href='mailto:arijeet@arijeetmattka.com' >Contact me</a> for writing or speaking engagments.",
+		"content":"A selection of recent articles, features, tutorials, interviews and press releases. A featured writer with NET magazine and Web Designer Magazine since 2018. <a href='mailto:arijeet@arijeetbasu.com' >Contact me</a> for writing or speaking engagments.",
 		"list":[
 			{
 				"title":"Net Magazine #330",
@@ -764,8 +764,8 @@ APP.data = {
 		"interviews":[	
 			{ "title":"NET Magazine #283", "subtitle":"How We Built the War of 1996","link":"https://drive.google.com/file/d/0B5VhrBQx_fg2YWh0eFhWVHBvOHM/view?usp=sharing", "thumb":"assets/images/net-issue-288.jpg"},
 			{ "title":"FWA: Insights","subtitle":"The War of 1996","link":"https://thefwa.com/article/insights-the-war-of-1996", "thumb":"assets/images/fwa-article.jpg"},
-			{ "title":"FWA Interview","subtitle":"","link":"https://thefwa.com/interviews/arijeet-mattka", "thumb":"assets/images/fwa-article.jpg"},
-			{ "title":"CSS Design Awards Interview","subtitle":"", "link":"https://www.cssdesignawards.com/judge-interview/arijeet-mattka/246/", "thumb":"assets/images/cssda-article.jpg"}
+			{ "title":"FWA Interview","subtitle":"","link":"https://thefwa.com/interviews/arijeet-basu", "thumb":"assets/images/fwa-article.jpg"},
+			{ "title":"CSS Design Awards Interview","subtitle":"", "link":"https://www.cssdesignawards.com/judge-interview/arijeet-basu/246/", "thumb":"assets/images/cssda-article.jpg"}
 		]
 
 	},
@@ -907,8 +907,8 @@ APP.data = {
 		],
 
 		"interviews":[	
-			{ "title":"FWA Interview","url":"https://thefwa.com/interviews/arijeet-mattka", "file":"assets/images/fwa-article.jpg"},
-			{ "title":"CSS Design Awards Interview","url":"https://www.cssdesignawards.com/judge-interview/arijeet-mattka/246/", "file":"assets/images/cssda-article.jpg"}
+			{ "title":"FWA Interview","url":"https://thefwa.com/interviews/arijeet-basu", "file":"assets/images/fwa-article.jpg"},
+			{ "title":"CSS Design Awards Interview","url":"https://www.cssdesignawards.com/judge-interview/arijeet-basu/246/", "file":"assets/images/cssda-article.jpg"}
 		],
 
 		"articles":[	
@@ -917,20 +917,20 @@ APP.data = {
 		],
 
 		"social":[	
-			{ "title":"Email","url":"mailto:arijeet@arijeetmattka.com", "file":"assets/images/email.png","type":"mail"},
+			{ "title":"Email","url":"mailto:arijeet@arijeetbasu.com", "file":"assets/images/email.png","type":"mail"},
 			{ "title":"Twitter","url":"https://twitter.com/synergyseeker", "file":"assets/images/twitter.png"},
-			{ "title":"Instagram","url":"https://instagram.com/arijeetmattka", "file":"assets/images/instagram.png"},
-			{ "title":"Facebook","url":"https://facebook.com/arijeetmattka", "file":"assets/images/facebook.png"},
-			{ "title":"Linked In","url":"https://www.linkedin.com/in/arijeetmattka/", "file":"assets/images/linked-in.png"},
+			{ "title":"Instagram","url":"https://instagram.com/arijeetbasu", "file":"assets/images/instagram.png"},
+			{ "title":"Facebook","url":"https://facebook.com/arijeetbasu", "file":"assets/images/facebook.png"},
+			{ "title":"Linked In","url":"https://www.linkedin.com/in/arijeetbasu/", "file":"assets/images/linked-in.png"},
 			{
-				"title":"Art Station", "url":"https://www.artstation.com/arijeetmattka","file":"assets/images/art-station.png"
+				"title":"Art Station", "url":"https://www.artstation.com/arijeetbasu","file":"assets/images/art-station.png"
 			},
 			{
-				"title":"Society 6", "url":"https://society6.com/arijeetmattka","file":"assets/images/society-6.png"
+				"title":"Society 6", "url":"https://society6.com/arijeetbasu","file":"assets/images/society-6.png"
 			},
 			
 			{
-				"title":"Vimeo", "url":"https://vimeo.com/arijeetmattka","file":"assets/images/vimeo.png"
+				"title":"Vimeo", "url":"https://vimeo.com/arijeetbasu","file":"assets/images/vimeo.png"
 			},
 			{
 				"title":"You Tube", "url":"https://www.youtube.com/channel/UCu3p01mYIv0GMruTjvyUMRg","file":"assets/images/youtube.svg"
