@@ -1,0 +1,24 @@
+{
+	"title":"GDSC",
+		"page-title":"Arijeet Basu | GDSC",
+		"subtitle":"Google Developers Student Club",
+		"content":"Google Developer Student Clubs at REVA University is established with a vision to provide students with a unique opportunity to learn, grow, and innovate.<br><br>At GDSC REVA, our mission is simple yet powerful: to promote learning, skill development, and collaboration among students who are passionate about technology. Through a series of meticulously designed workshops, events, and projects, we aim to equip you with practical knowledge that transcends the boundaries of the classroom.<br><br><b>Activities and Initiatives:</b><br><br><b>Workshops and Tech Talks:</b> Immerse yourself in a world of cutting-edge technology through our workshops and tech talks. From programming languages to frameworks and emerging technologies, our sessions cover a wide spectrum of topics to fuel your curiosity.<br><br> <b>Hackathons and Coding Challenges:</b> Sharpen your coding skills by participating in hackathons and coding competitions. These challenges provide a platform for you to apply your knowledge, collaborate with fellow students, and tackle real-world problems.<br><br><b>Open Source Contributions:</b> Contribute to the global developer community by participating in open source projects. GDSC REVA encourages members to make meaningful contributions, fostering a sense of collaboration that goes beyond our campus.<br><br><b>Community Building:</b> Beyond the screen, GDSC REVA is about creating connections. Join us for social events, meetups, and networking sessions, where you can interact with like-minded individuals who share your passion for technology.",
+		"bio":"<p>Arijeet Basu is an award-winning creative technologist.</p>",
+		"link":"work/gdsc",
+
+		"feature": {
+			"type":"image",
+			"id":"",
+			"source":"vimeo",
+			"title":"",
+			"images":[
+				{"file":"https://i.ibb.co/z2CpHTh/GDSC-Banner1.png"}
+			],
+			"iframe":""
+		}
+
+	
+}
+
+	
+		

@@ -21,10 +21,10 @@ APP.data = {
 	"menu":[
 		{"title":"home","link":"home"},
 		{"title":"work","link":"work"},
-		{"title":"discover","link":"prototypes"},
-		{"title":"art","link":"art"},
-		{"title":"blog","link":"press"},
-		{"title":"about","link":"info"},
+		// {"title":"Events","link":"prototypes"},
+		// {"title":"art","link":"art"},
+		// {"title":"blog","link":"press"},
+		// {"title":"about","link":"info"},
 		{"title":"reel","link":"reel"}
 	],
 
@@ -45,42 +45,44 @@ APP.data = {
 		"content":"",
 		"list":[
 			{
-				"title":"SweeTARTS | SweetBEATS Musical Mixer",
-				"subtitle":"SweeTARTS, Wildlife, Duncan Channon",
-				"role":"Creative Technologist| Lead 3D Developer",
-				"thumb":"assets/images/work/sweetbeats/thumb.jpg",
-				"link":"work/sweetbeats",
-				"tags":"music, visualizer, mobile, desktop, webgl, 3d, threejs, react, shaders",
+				"title":"GDSC | DSC REVA PR, Design Crew",
+				"subtitle":"Google Developers Student Club",
+				"role":"Public Relations Coordinator, Designer",
+				"thumb":"assets/images/work/GDSC/GDSC Banner1.png",
+				"link":"work/gdsc",
+				"tags":"PR, Design, Photoshop, Illustrator, Canva",
 				"featured":true,
-				"bio":"Hello World",
+				"bio":"GDSC",
 			},
 			{
-				"title":"Hidden13 | AR Metaverse iPhone 13 Launch",
-				"subtitle":"Verizon, Apple, Tool, FriendsWithYou, Halsey",
-				"role":"Creative Technologist| Lead 3D Developer",
-				"thumb":"assets/images/work/hidden13/thumb.jpg",
-				"link":"work/hidden13",
-				"tags":"apple, iphone13, iphone, halsey,H1DD3N, hidden13, verizon, friendswithyou,webar, ar, gsap, webgl, webdev, gamedev, threejs, 3d, vfx",
+				"title":"Research | Sustainable Aviation",
+				"subtitle":"THE ROLE OF ELECTRIC AND HYBRID-ELECTRIC PROPULSION IN SUSTAINABLE AVIATION",
+				"role":"Lead Researcher, Analyst",
+				"thumb":"assets/images/work/Aviation/aviation.png",
+				"link":"work/aviation",
+				"tags":"aviation, sustainable aviation, sustainability, electric aviation, hybrid electric aviation",
 				"featured":true
 			},
+			
 			{
-				"title":"Microsoft | Codebook",
-				"subtitle":"Microsoft,Vossler, Dog Studio",
+				"title":"CO FOUNDER | EventBear IN",
+				"subtitle":"WEB 3 Based Event Management Software",
 				"role":"Creative Technical Director | Lead Developer",
-				"thumb":"assets/images/work/microsoft-codebook/codebook-cover.jpg",
-				"link":"work/microsoft-codebook",
+				"thumb":"assets/images/work/EvB/EvB.png",
+				"link":"work/evb",
 				"tags":"webgl, 3d, threejs, react, shaders",
 				"featured":true	
 			},
 			{
-				"title":"Locks of Love | Cut The Quarantine",
-				"subtitle":"Locks of Love, By Hook",
-				"role":"Creative Technical Director | Lead Developer",
-				"thumb":"assets/images/work/cut-the-quarantine/splash.jpg",
-				"link":"work/cut-the-quarantine",
-				"tags":"gsap, scrolling, video, lottie",
+				"title":"Research | WEB3 in Industry 5.0",
+				"subtitle":"ENTREPRENEURIAL OPPORTUNITIES IN INDUSTRY 5.0 BUILT ON BLOCKCHAIN.",
+				"role":"Lead Researcher",
+				"thumb":"assets/images/work/research1/InS5.png",
+				"link":"work/inds5",
+				"tags":"research, web3, industry 5.0",
 				"featured":true
 			},
+			
 			
 
 
@@ -91,9 +93,9 @@ APP.data = {
 
 
 	"prototypes":{
-		"title":"Discover",
-		"page-title":"Arijeet Basu | Prototypes",
-		"subtitle":"Visual FX | 3D | Shaders | AI | Experiments",
+		"title":"Events",
+		"page-title":"Arijeet Basu | Events",
+		"subtitle":"Conference | Fest | Tournament | Seminar | Gala",
 		"content":"A collection of experiments, animations, concept work and explorations. Some find their way into projects, films, tutorials, books and installations. All of them teach me something, and hopefully can offer something for others as well.",
 		"list":[
 
@@ -101,7 +103,7 @@ APP.data = {
 				"title":"Alien Core r2", 
 				"subtitle":"Graphic Shader Concept | Smoke Light Simulation", 
 				"thumb":"assets/images/prototypes/alienworld/sharecore.jpg",
-				"link":"www.google.com",
+				"link":"*",
 				"tags":"webgl,ar/vr,film,installation,social,composite, video compositing,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx"
 			},
 			{	
