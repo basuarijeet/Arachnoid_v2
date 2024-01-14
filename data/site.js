@@ -21,10 +21,10 @@ APP.data = {
 	"menu":[
 		{"title":"home","link":"home"},
 		{"title":"work","link":"work"},
-		// {"title":"Events","link":"prototypes"},
-		// {"title":"art","link":"art"},
-		// {"title":"blog","link":"press"},
-		// {"title":"about","link":"info"},
+		// {"title":"Events","link":"art"},
+		// {"title":"Discover","link":"prototypes"},
+		// {"title":"Favs","link":"press"},
+		{"title":"Info","link":"info"},
 		{"title":"reel","link":"reel"}
 	],
 
@@ -103,7 +103,7 @@ APP.data = {
 				"title":"Alien Core r2", 
 				"subtitle":"Graphic Shader Concept | Smoke Light Simulation", 
 				"thumb":"assets/images/prototypes/alienworld/sharecore.jpg",
-				"link":"*",
+				"onclick": "return false;",
 				"tags":"webgl,ar/vr,film,installation,social,composite, video compositing,experiential,glsl,shader, mobile, dekstop, 3d models, 3d, sfx"
 			},
 			{	
@@ -777,9 +777,9 @@ APP.data = {
 
 		"title":"about",
 		"page-title":"Arijeet Basu | Info",
-		"subtitle":"Bio | Awards | Clients | Services | Contact",
-		"content":"Arijeet Basu is an award-winning creative technologist.",
-		"bio":"<p>Arijeet Basu is an award-winning creative technologist.</p>",
+		"subtitle":"Bio | Awards | Contact",
+		"content":"HI",
+		"bio":"<center>Dinosaurs are cool...Rawrrr 🦖</center>",
 
 		"feature": {
 			"type":"image",
@@ -787,7 +787,7 @@ APP.data = {
 			"source":"vimeo",
 			"title":"",
 			"images":[
-				{"file":"assets/images/art/end-of-days-1.jpg"}
+				{"file":"assets/images/infobanner.png"}
 			],
 			"iframe":""
 		},	
@@ -841,101 +841,32 @@ APP.data = {
 		"awards":[	
 
 
-			{ "title":"Cyber Lions Gold", "file":"assets/images/cannes.png"},
-			{ "title":"Cutting Edge of the Week", "file":"assets/images/adobe.png"},
+			{ "title":"Best Delegation In Youth G20", "file":"assets/images/G20.png"},
+			{ "title":"Hour Of Code-National Leaderboard", "file":"assets/images/progate.png"},
 
-			{ "title":"Emmy Finalist Outstanding Achievement Interactive Media", "file":"assets/images/emmy.png"},
+			{ "title":"HP Enterprise Codewars", "file":"assets/images/HPE.png"},
 
-			{ "title":"Gold Website", "file":"assets/images/clio.png"},
-			{ "title":"Gold Social Media", "file":"assets/images/clio.png"},
-			{ "title":"Gold Inte-grated", "file":"assets/images/clio.png"},
-
-			{ "title":"Inter-active Ads", "file":"assets/images/webbys.png"},
-			{ "title":"Website", "file":"assets/images/webbys.png"},
-			{ "title":"Best Portfolio Site", "file":"assets/images/webbys.png"},
-
-			{ "title":"Craft Website Design Merit", "file":"assets/images/one-show.png"},
-			{ "title":"Consumer Apps &amp; Sites Merit", "file":"assets/images/one-show.png"},
-			{ "title":"Mobile: Consumer Apps &amp; Sites  Merit", "file":"assets/images/one-show.png"},
-
-
-			{ "title":"Addy Innovative Use Of Interactive Technology", "file":"assets/images/addys.png"},
-			
-			{ "title":"Comm Arts Web Pick of the Day", "file":"assets/images/commarts.png"},
-
-			{ "title":"Creativity Top 5 - #1", "file":"assets/images/creativity.png"},
-
-			{ "title":"Site of the Day", "file":"assets/images/fwa.png"},
-			{ "title":"Mobile of the Day", "file":"assets/images/fwa-mobile.png"},
-			{ "title":"Site of the Month", "file":"assets/images/fwa.png"},
-
-			{ "title":"Site of the Day", "file":"assets/images/css-design-awards.png"},
-			{ "title":"Site of the Month", "file":"assets/images/css-design-awards.png"},
-			{ "title":"Site of the Year", "file":"assets/images/css-design-awards.png"},
-
-			{ "title":"Site of the Day", "file":"assets/images/awwwards.png"},
-			{ "title":"Site of the Month", "file":"assets/images/awwwards.png"}
+			{ "title":"Nation Wide Gold Essayist", "file":"assets/images/essay.png"},
+			{ "title":"Best Management Team", "file":"assets/images/reva.png"},
 			
 		],
 
 
-		"clients":[
-			{ "file":"assets/images/clients/apple.png"},
-			{ "file":"assets/images/clients/adidas.png"},
-			{ "file":"assets/images/clients/amazon.png"},
-			{ "file":"assets/images/clients/ford.png"},
-			{ "file":"assets/images/clients/google.png"},
-			{ "file":"assets/images/clients/ibm.png"},
-			{ "file":"assets/images/clients/intel.png"},
-			{ "file":"assets/images/clients/interscope.png"},
-			{ "file":"assets/images/clients/lionsgate.png"},
-			{ "file":"assets/images/clients/mitsubishi.png"},
-			{ "file":"assets/images/clients/newline.png"},
-			{ "file":"assets/images/clients/nfl.png"},
-			{ "file":"assets/images/clients/nissan.png"},
-			{ "file":"assets/images/clients/pepsi.png"},
-			{ "file":"assets/images/clients/playstation.png"},
-			{ "file":"assets/images/clients/sonos.png"},
-			{ "file":"assets/images/clients/sony.png"},
-			{ "file":"assets/images/clients/southwest.png"},
-			{ "file":"assets/images/clients/twitch.png"},
-			{ "file":"assets/images/clients/territory.png"},
-			{ "file":"assets/images/clients/us-army.png"},
-			{ "file":"assets/images/clients/video-copilot.png"},
-			{ "file":"assets/images/clients/wb.png"},
-			{ "file":"assets/images/clients/yeezy.png"},
-			{ "file":"assets/images/clients/tool.png"},
-			{ "file":"assets/images/clients/northkingdom.png"}
-		],
-
-		"interviews":[	
-			{ "title":"FWA Interview","url":"https://thefwa.com/interviews/arijeet-basu", "file":"assets/images/fwa-article.jpg"},
-			{ "title":"CSS Design Awards Interview","url":"https://www.cssdesignawards.com/judge-interview/arijeet-basu/246/", "file":"assets/images/cssda-article.jpg"}
-		],
-
-		"articles":[	
-		{ "title":".NET - How We Built the War of 1996","url":"https://drive.google.com/file/d/0B5VhrBQx_fg2YWh0eFhWVHBvOHM/view?usp=sharing", "file":"assets/images/net-issue-288.jpg"},
-		{ "title":"FWA: Insights... The War of 1996","url":"https://thefwa.com/article/insights-the-war-of-1996", "file":"assets/images/fwa-article.jpg"}
-		],
+		
 
 		"social":[	
-			{ "title":"Email","url":"mailto:arijeet@arijeetbasu.com", "file":"assets/images/email.png","type":"mail"},
-			{ "title":"Twitter","url":"https://twitter.com/synergyseeker", "file":"assets/images/twitter.png"},
-			{ "title":"Instagram","url":"https://instagram.com/arijeetbasu", "file":"assets/images/instagram.png"},
-			{ "title":"Facebook","url":"https://facebook.com/arijeetbasu", "file":"assets/images/facebook.png"},
-			{ "title":"Linked In","url":"https://www.linkedin.com/in/arijeetbasu/", "file":"assets/images/linked-in.png"},
-			{
-				"title":"Art Station", "url":"https://www.artstation.com/arijeetbasu","file":"assets/images/art-station.png"
-			},
-			{
-				"title":"Society 6", "url":"https://society6.com/arijeetbasu","file":"assets/images/society-6.png"
-			},
+			{ "title":"Email","url":"mailto:reach@arijeetbasu.co", "file":"assets/images/email.png","type":"mail"},
+			{ "title":"Twitter","url":"https://twitter.com/yourETHguy", "file":"assets/images/xlogo.png"},
 			
+			{ "title":"Linked In","url":"https://www.linkedin.com/in/arijeetbasu/", "file":"assets/images/linkedin.png"},
 			{
-				"title":"Vimeo", "url":"https://vimeo.com/arijeetbasu","file":"assets/images/vimeo.png"
+				"title":"Pintrest", "url":"https://in.pinterest.com/arijeet_basu/_created/","file":"assets/images/pintrest.png"
 			},
 			{
-				"title":"You Tube", "url":"https://www.youtube.com/channel/UCu3p01mYIv0GMruTjvyUMRg","file":"assets/images/youtube.svg"
+				"title":"GitHub", "url":"https://github.com/basuarijeet","file":"assets/images/github.png"
+			},
+			{
+				"title":"You Tube", "url":"https://www.youtube.com/channel/UCJbdXTGBgBqa1GLYzo8zxPw","file":"assets/images/youtube.svg"
 			}
 		]
 	},

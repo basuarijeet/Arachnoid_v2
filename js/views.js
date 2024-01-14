@@ -581,22 +581,10 @@ APP.info = {
 		}
 
 
-		
-
-		// instafeed
-		// $(".info .instafeed-title").html("[ instagram feed ]");
-		// var feed = new Instafeed({
-	    //     get: 'user',
-	    //     limit: 5,
-	    //     template: '<a class="list-item" target="_blank" href="{{link}}"><img src="{{image}}" /></a>',
-	    //     userId: '201601854',
-	    //     clientId: '19a04ded169c456e80a86f630c967cf0',
-	    //     accessToken:'201601854.19a04de.87ab9f8a0cf34fe4ad7d8af936ead969'
-	    // });
-	    // feed.run();
+	
 
 	    // twitter
-	    $(".info .twitter-title").html("[ twitter feed ]");
+	    $(".info .twitter-title").html("[  𝕏  feed ]");
 	   
 
 
@@ -609,7 +597,7 @@ APP.info = {
 			str+="<div data-aos='fade-in' data-aos-easing='ease-in-out' data-aos-offset='50' data-aos-duration='1000' data-aos-delay='50' class='list-item "+l.class+"'><a href='"+l.url+"' target='"+target+"'><img title='"+l.title+"' src='"+l.file+"' /></a></div>";
 		});
 		if(str!=""){
-			$(".info .social-title").html("[ booking | contact | connect ]");
+			$(".info .social-title").html("[ contact | connect ]");
 			$(".info .social-list").html(str);
 			$(".info .social").show();
 		} else {
@@ -720,7 +708,7 @@ APP.workDetail = {
 	    })
 			
 		$(".work-detail .share-page-twitter").click(function(){
-	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=synergyseeker&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 300) + ", left=" + ($(window).width() / 2 - 175) );
+	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=yourETHguy&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 300) + ", left=" + ($(window).width() / 2 - 175) );
 	    })
 	    
 
@@ -1078,7 +1066,7 @@ APP.artDetail = {
 	    })
 			
 		$(".art-detail .share-page-twitter").click(function(){
-	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=synergyseeker&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
+	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=yourETHguy&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
 	    
 
@@ -1385,7 +1373,7 @@ APP.pressDetail = {
 	    })
 			
 		$(".press-detail .share-page-twitter").click(function(){
-	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=synergyseeker&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
+	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=yourETHguy&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
 	    
 
@@ -1696,7 +1684,7 @@ APP.prototypesDetail = {
 	    })
 			
 		$(".prototypes-detail .share-page-twitter").click(function(){
-	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=synergyseeker&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
+	    	window.open("https://twitter.com/intent/tweet?hashtags="+data.hashtags+"&original_referer="+data.url+"&ref_src=twsrc%5Etfw&related=yourETHguy&text="+data.twitterShare+"&tw_p=tweetbutton&url="+data.url,"Twitter Share","width=600, height=350 top=" + ($(window).height() / 2 - 275) + ", left=" + ($(window).width() / 2 - 225) );
 	    })
 	    
 
