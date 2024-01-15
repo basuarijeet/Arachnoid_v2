@@ -96,7 +96,7 @@ APP.data = {
 		"title":"Events",
 		"page-title":"Arijeet Basu | Events",
 		"subtitle":"Conference | Fest | Tournament | Seminar | Gala",
-		"content":"A collection of experiments, animations, concept work and explorations. Some find their way into projects, films, tutorials, books and installations. All of them teach me something, and hopefully can offer something for others as well.",
+		"content":"A collection of experiments, work and explorations. Some find their way into projects, tutorials, books and installations. All of them teach me something, and hopefully can offer something for others as well.",
 		"list":[
 
 			{	
