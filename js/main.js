@@ -4,7 +4,7 @@ APP.init = function(){
 	_this=this;
 	this.state = "loading";
 	this.loader.show();
-	console.log(this.data.title, "v" + this.data.version + " " + this.data.langauge);
+	console.log(this.data.title, "v" + this.data.version + " " + this.data.language);
 
 	// get incoming query params
 	this.queryParams = $.getQueryParameters();
