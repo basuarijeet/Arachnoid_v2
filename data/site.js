@@ -855,7 +855,7 @@ APP.data = {
 		
 
 		"social":[	
-			{ "title":"Email","url":"mailto:reach@arijeetbasu.co", "file":"assets/images/email.png","type":"mail"},
+			{ "title":"Email","url":"mailto:basuarijeet7@gmail.com", "file":"assets/images/email.png","type":"mail"},
 			{ "title":"Twitter","url":"https://twitter.com/yourETHguy", "file":"assets/images/xlogo.png"},
 			
 			{ "title":"Linked In","url":"https://www.linkedin.com/in/arijeetbasu/", "file":"assets/images/linkedin.png"},
